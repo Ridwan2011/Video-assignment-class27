@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+.header-section{
+    background: #303030;
+    padding-bottom: 1px;
+    color: #fff;
+}
+
+.header-section .img{
+    width: 98px;
+    position: relative;
+    top: 19px;
+    left: 64px;
+}
+
+.header-section img{
+    max-width: 100%;
+}
+
+.header-section .menu{
+    display: inline-block;
+    position: relative;
+    left: 301px;
+    bottom: 13px;
+}
+
+li{
+    display: inline-block;
+}
+
+li a{
+    color: #acacac;
+    font-weight: 900;
+    padding: 15px;
+}
+
+.shop-item .span{
+    font-size: 10px;
+    line-height: 10px;
+    margin: 6px 0px 3px;
+    display: block;
+    color: #f9afc9;
+}
+
+.shop-item span{
+    font-size: 14px;
+    line-height: 10px;
+    margin: 6px 3px 6px 0px;
+    display: block;
+    color: rgb(249, 175, 201);
+    letter-spacing: 0.02em;
+}
+
+.shop-item{
+    width: 265px;
+    margin-top: 100px;
+    display: inline-block;
+    margin-bottom: 70px;
+    position: relative;
+    left: 32px;
+}
+
+
+.shop-item del{
+    font-size: 14px;
+    line-height: 10px;
+    margin: 6px 3px 6px 0px;
+    letter-spacing: 0.02em;
+    color: #b3c6dd;
+}
+
+.for-margin{
+    margin-left: 5%;
+}
+
+.img{
+    width: 100%;
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
+}
